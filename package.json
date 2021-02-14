@@ -1,0 +1,16 @@
+{
+    "name": "example1",
+    "version": "1.0.0",
+    "description": "ejemplo de bot",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "test": "start"
+    },
+    "author": "jsvera",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "slimbot": "^5.0.0"
+    }
+}
